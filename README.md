@@ -92,6 +92,10 @@ auth_modules:
       database: test-db
 ```
 
+## Grafana Dashboard
+### ID : 9628
+[postgresql-database-dashboard](https://grafana.com/grafana/dashboards/9628-postgresql-database/)
+
 ## Building and running
 
     git clone https://github.com/prometheus-community/postgres_exporter.git
